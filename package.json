@@ -1,0 +1,11 @@
+{
+  "name": "ev4gh-web",
+  "version": "2.0.0",
+  "description": "ev4gh website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "al shahriar",
+  "license": "ISC"
+}
