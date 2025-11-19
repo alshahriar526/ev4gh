@@ -804,7 +804,7 @@
                 </div>
             </div>
         </section>
-        <section class=" our-history-section-2 bsb-timeline-7  py-3 py-md-5 py-xl-8">
+        <!-- <section class=" our-history-section-2 bsb-timeline-7  py-3 py-md-5 py-xl-8">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-12">
@@ -941,6 +941,34 @@
                                 </div>
                             </li>
                         </ul>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+
+        <section id="ev4gh-section-video" class="ev4gh-section left ev4gh-section-video ">
+            <div class="container-fluid">
+                <div class="row g-0">
+                    <div class="col-md-6">
+                        <div class="ev4gh-text-card">
+                            <!-- <h3 class="ev4gh-section-title">10th Anniversary of EV4GH</h3> -->
+                            <img class="ten-anniversary-logo" src="assets/images/10th-Anniversary.png"
+                                alt="">
+                            <p class="ev4gh-section-text-para">Emerging Voices for Global Health (EV4GH) celebrates its
+                                10th anniversary. Here is a glimpse at the decade past. 6 ventures of EV4Gh have been
+                                successfully conducted so far. We look forward to the upcoming EV 2020 venture and many
+                                more to come.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="ev4gh-video-card">
+                            <video controls="">
+                                <source type="video/mp4"
+                                    src="assets/videos/Emerging Voices 10th Anniversary.mp4">
+                            </video>
+                            
+                        </div>
                     </div>
                 </div>
             </div>
